@@ -1,1 +1,8 @@
 #arielmikiabraham
+
+There are many reasons to study operating systems.
+
+-if we know about operating systems we will know how computer work and we can optimize our algorithm
+-every computers run on an operating systems, so we have to study operating systems
+-i love computer hardware
+-we have to pass this courses if we want to graduate
