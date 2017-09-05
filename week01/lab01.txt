@@ -1,0 +1,26 @@
+total 76
+drwxr-xr-x 18 ariel.miki StafCS 4096 Sep  5 14:54 .
+drwx--x--x  4 ariel.miki StafCS 4096 Sep  5 14:30 ..
+drwxr-xr-x  8 ariel.miki StafCS 4096 Sep  5 14:54 .git
+-rw-r--r--  1 ariel.miki StafCS    7 Sep  5 14:14 README.md
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 key
+-rw-r--r--  1 ariel.miki StafCS    0 Sep  5 14:54 lab01.txt
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 log
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:25 sandbox
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:53 week00
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:49 week01
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week02
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week03
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week04
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week05
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week06
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week07
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week08
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week09
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 week10
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:19 xtra
+total 12
+drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:55 .
+drwxr-xr-x 18 ariel.miki StafCS 4096 Sep  5 14:55 ..
+-rw-r--r--  1 ariel.miki StafCS    0 Sep  5 14:19 dummy
+-rw-r--r--  1 ariel.miki StafCS 1137 Sep  5 14:54 lab01.txt
