@@ -24,3 +24,4 @@ drwxr-xr-x  2 ariel.miki StafCS 4096 Sep  5 14:55 .
 drwxr-xr-x 18 ariel.miki StafCS 4096 Sep  5 14:55 ..
 -rw-r--r--  1 ariel.miki StafCS    0 Sep  5 14:19 dummy
 -rw-r--r--  1 ariel.miki StafCS 1137 Sep  5 14:54 lab01.txt
+Today is 05 Sep 2017 at 15:16:46
