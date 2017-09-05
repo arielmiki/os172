@@ -1,0 +1,3 @@
+create local repository and push it to github
+update repository 
+learn using CLI
