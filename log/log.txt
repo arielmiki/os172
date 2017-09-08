@@ -1,0 +1,7 @@
+w01-170904-16-LR-About: Learn using git, From: https://git-scm.com/docs	
+w01-170905-14-PS-About: Practice pull/push Github 
+w01-170905-15-PS-About: Practice using script in linux
+w01-170905-16-LR-About: Introduction to scripting, From: OS Class
+w01-170905-23-LR-About: Managing git credential manager for Windows, From: 
+https://github.com/Microsoft/Git-Credential-Manager-for-Windows 
+w01-170907-16-LR-About: Script ext, From: OS Class
