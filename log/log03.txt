@@ -1,7 +1,7 @@
-w02-170911-15-LR-About: C Language, From:gnu.org
-w02-170911-16-LR-About: RSA Key, From:Wikipedia
-w02-170911-20-PR-About: Lab week02
-w02-170912-16-LR-About: Protection and Security, From: OS Class
-w02-170914-16-LR-About: C Programming, From: OS Class
-w02-170914-17-PR-About: C Programming in OS class
-w02-170916-10-LR-About: Public key and Private Key, From: Wikipedia
+w03-170919-16-LR-About:UEFI and BIOS, From:OS Class
+w03-170919-17-LR-About:Startup event and runlevel, From:OS Class
+w03-170921-20-LR-About:Linux startup sequence, From:
+http://www.tldp.org/LDP/intro-linux/html/sect_04_02.html
+w03-170921-21-LR-About:Touch command, From:
+http://www.tutorialspoint.com/unix_commands/touch.htm
+w03-170921-22-PR-About:Lab week03
