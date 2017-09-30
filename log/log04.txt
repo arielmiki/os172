@@ -1,0 +1,10 @@
+w04-170926-16-LR-About: IO Process, From: OS Class
+w04-170928-16-LR-About: Open File in C, From:OS Class
+w04-170928-17-PR-About: Opening File in C
+w04-170928-18-LR-About: Duplicating file descriptor in C, From:
+https://www.gnu.org/software/libc/manual/html_node/Opening-and-Closing-Files.html
+w04-170929-20-LR-About: Local and Global Variable, From:
+http://pages.cs.wisc.edu/~calvin/cs110/LOCAL_GLOBAL.html
+w04-170929-21-LR-About: flags and modes argument, From:
+https://www.gnu.org/software/libc/manual/html_node/Opening-and-Closing-Files.html
+w04-170929-22-PR-About: Lab week03
