@@ -1,0 +1,7 @@
+w08-171113-20-PR-About: One-level, two-level scheduling
+w08-171114-16-LR-About: Scheduling in UNIX, From:OS Class
+w08-171116-16-LR-About: CPU Time and process time, From:OS Class
+w08-171116-17-PR-About: Do excercise about scheduling form OS Class
+w08-171117-20-PR-About: Week 08 Assignment
+w08-171118-12-PR-About: Finishing week08 lab
+
